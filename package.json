@@ -1,0 +1,28 @@
+{
+  "name": "modern-streams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node --harmony_do_expressions src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeltaEvo/modern-streams.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeltaEvo/modern-streams/issues"
+  },
+  "homepage": "https://github.com/DeltaEvo/modern-streams#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-beta.51",
+    "@babel/core": "^7.0.0-beta.51",
+    "@babel/node": "^7.0.0-beta.51",
+    "@babel/plugin-proposal-decorators": "^7.0.0-beta.51",
+    "@babel/plugin-proposal-pipeline-operator": "^7.0.0-beta.51",
+    "@babel/plugin-syntax-async-generators": "^7.0.0-beta.51",
+    "@babel/plugin-syntax-do-expressions": "^7.0.0-beta.51"
+  }
+}

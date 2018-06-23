@@ -1,0 +1,7 @@
+{
+	"plugins": [
+        "@babel/plugin-proposal-pipeline-operator",
+        "@babel/plugin-syntax-async-generators",
+        "@babel/plugin-syntax-do-expressions"
+    ]
+}
